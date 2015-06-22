@@ -177,7 +177,8 @@ module.exports = React.createClass({
       readOnly: this.props.readOnly,
       disabled: this.props.disabled,
       value: this.getPlainText(),
-      placeholder: this.props.placeholder
+      placeholder: this.props.placeholder,
+      autoComplete: this.props.autoComplete
     };
 
     if(!this.props.readOnly && !this.props.disabled) {
