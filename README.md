@@ -1,3 +1,5 @@
+# WARNING: We still use this fork in [mp.dev-star](https://github.com/moviepilot/mp.dev-star). When we remove mp.dev-star this one can probably be safely removed as well – but please check.
+
 #[React Mentions](http://effektif.github.io/react-mentions)
 
 [![Build Status](https://travis-ci.org/effektif/react-mentions.svg?branch=master)](https://travis-ci.org/effektif/react-mentions)
